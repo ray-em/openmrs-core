@@ -213,3 +213,4 @@
 0325. 🎨 style: rename variables for clarity
 0599. ✅ test: test user registration edge cases
 0662. ♻️ chore: clean up unused files
+0689. 🎨 style: reformat files with black
