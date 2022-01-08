@@ -415,3 +415,4 @@
 0612. ✅ test: test user registration edge cases
 0376. 🎨 style: apply consistent indentation
 0223. 🔧 refactor: remove redundant code blocks
+0870. ♻️ chore: clean up unused files
