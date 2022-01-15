@@ -417,3 +417,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0870. ♻️ chore: clean up unused files
 0427. ✅ test: mock database connection in test suite
+0826. 📚 docs: clarify environment setup
