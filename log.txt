@@ -215,3 +215,4 @@
 0662. ♻️ chore: clean up unused files
 0689. 🎨 style: reformat files with black
 0089. 🔧 refactor: remove redundant code blocks
+0221. ✨ feat: add user authentication
