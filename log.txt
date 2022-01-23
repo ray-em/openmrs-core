@@ -202,3 +202,4 @@
 0374. 🎨 style: standardize quote style
 0542. 🔧 refactor: organize models into subfolders
 0685. ✅ test: test user registration edge cases
+0594. 🎨 style: reformat files with black
