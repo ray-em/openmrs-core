@@ -217,3 +217,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0221. ✨ feat: add user authentication
 0122. ✨ feat: support email verification
+0269. ✅ test: test user registration edge cases
