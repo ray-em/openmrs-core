@@ -218,3 +218,4 @@
 0221. ✨ feat: add user authentication
 0122. ✨ feat: support email verification
 0269. ✅ test: test user registration edge cases
+0563. 📚 docs: clarify environment setup
