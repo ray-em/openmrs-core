@@ -219,3 +219,4 @@
 0122. ✨ feat: support email verification
 0269. ✅ test: test user registration edge cases
 0563. 📚 docs: clarify environment setup
+0740. 🐛 fix: resolve issue with date parsing
