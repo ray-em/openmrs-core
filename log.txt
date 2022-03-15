@@ -424,3 +424,4 @@
 0087. ✨ feat: add export to CSV option
 0585. 🚀 perf: lazy-load components
 0579. 📚 docs: clarify environment setup
+0974. ✨ feat: add export to CSV option
