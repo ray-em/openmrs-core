@@ -426,3 +426,4 @@
 0579. 📚 docs: clarify environment setup
 0974. ✨ feat: add export to CSV option
 0009. ✨ feat: enable dark mode toggle
+0064. 📚 docs: clarify environment setup
