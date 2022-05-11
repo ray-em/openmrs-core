@@ -227,3 +227,4 @@
 0182. 🔧 refactor: remove redundant code blocks
 0561. 📚 docs: write FAQ section
 0497. 🔧 refactor: refactor quiz grading logic
+0409. 🚀 perf: lazy-load components
