@@ -228,3 +228,4 @@
 0561. 📚 docs: write FAQ section
 0497. 🔧 refactor: refactor quiz grading logic
 0409. 🚀 perf: lazy-load components
+0626. 🎨 style: standardize quote style
