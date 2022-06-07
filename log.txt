@@ -235,3 +235,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0972. 🔧 refactor: refactor quiz grading logic
 0518. ✨ feat: support email verification
+0185. 📚 docs: write FAQ section
