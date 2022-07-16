@@ -435,3 +435,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0645. 🐛 fix: resolve issue with date parsing
 0481. ✅ test: add unit test for quiz service
+0372. ✨ feat: add user authentication
