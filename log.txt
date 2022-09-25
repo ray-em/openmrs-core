@@ -245,3 +245,4 @@
 0317. ✅ test: test user registration edge cases
 0831. 📚 docs: clarify environment setup
 0553. 🐛 fix: correct typo in registration form
+0531. 🐛 fix: prevent crash on empty input
