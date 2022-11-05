@@ -450,3 +450,4 @@
 0464. 🎨 style: remove trailing whitespace
 0709. ♻️ chore: bump dependencies
 0637. 🎨 style: apply consistent indentation
+0685. ✅ test: test user registration edge cases
