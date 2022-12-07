@@ -254,3 +254,4 @@
 0292. 📚 docs: clarify environment setup
 0018. 🔧 refactor: organize models into subfolders
 0287. 📚 docs: write FAQ section
+0105. 🐛 fix: correct typo in registration form
