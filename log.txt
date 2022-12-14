@@ -256,3 +256,4 @@
 0287. 📚 docs: write FAQ section
 0105. 🐛 fix: correct typo in registration form
 0413. ✅ test: add integration test for /submit endpoint
+0524. ♻️ chore: rename env.example
