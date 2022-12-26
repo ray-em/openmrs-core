@@ -454,3 +454,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0829. 🔧 refactor: organize models into subfolders
 0990. ♻️ chore: rename env.example
+0652. 🔧 refactor: organize models into subfolders
