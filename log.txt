@@ -258,3 +258,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0524. ♻️ chore: rename env.example
 0058. ♻️ chore: add GitHub actions badge
+0031. 📚 docs: document token refresh logic
