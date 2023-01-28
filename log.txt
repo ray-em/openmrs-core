@@ -461,3 +461,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0756. ✨ feat: support email verification
 0854. ♻️ chore: rename env.example
+0905. ♻️ chore: bump dependencies
