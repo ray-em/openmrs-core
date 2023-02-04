@@ -462,3 +462,4 @@
 0756. ✨ feat: support email verification
 0854. ♻️ chore: rename env.example
 0905. ♻️ chore: bump dependencies
+0785. ✨ feat: enable dark mode toggle
