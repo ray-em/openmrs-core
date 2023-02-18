@@ -464,3 +464,4 @@
 0905. ♻️ chore: bump dependencies
 0785. ✨ feat: enable dark mode toggle
 0935. 📚 docs: update README with setup steps
+0293. ✅ test: add integration test for /submit endpoint
