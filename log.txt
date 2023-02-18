@@ -266,3 +266,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0635. 🎨 style: apply consistent indentation
 0838. 🎨 style: standardize quote style
+0837. 🚀 perf: cache repeated calculations
