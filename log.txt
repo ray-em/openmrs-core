@@ -267,3 +267,4 @@
 0635. 🎨 style: apply consistent indentation
 0838. 🎨 style: standardize quote style
 0837. 🚀 perf: cache repeated calculations
+0986. 📚 docs: document token refresh logic
