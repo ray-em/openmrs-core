@@ -273,3 +273,4 @@
 0969. ✨ feat: create admin dashboard
 0861. ♻️ chore: clean up unused files
 0840. 🔧 refactor: refactor quiz grading logic
+0196. ♻️ chore: bump dependencies
