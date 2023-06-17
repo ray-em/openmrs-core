@@ -478,3 +478,4 @@
 0796. 🔧 refactor: refactor quiz grading logic
 0592. 📚 docs: add API usage examples
 0576. ♻️ chore: update .gitignore
+0518. ✨ feat: support email verification
