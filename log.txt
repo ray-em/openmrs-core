@@ -480,3 +480,4 @@
 0576. ♻️ chore: update .gitignore
 0518. ✨ feat: support email verification
 1000. ✅ test: increase coverage on auth module
+0440. 📚 docs: update README with setup steps
