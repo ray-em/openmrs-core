@@ -484,3 +484,4 @@
 0933. 📚 docs: clarify environment setup
 0651. ✨ feat: enable dark mode toggle
 0754. 🐛 fix: handle 500 error in quiz API
+0034. 📚 docs: improve code comments in utils
