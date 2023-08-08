@@ -287,3 +287,4 @@
 0739. 🎨 style: remove trailing whitespace
 0961. 📚 docs: add API usage examples
 0655. 🚀 perf: cache repeated calculations
+0011. ✅ test: add unit test for quiz service
