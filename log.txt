@@ -296,3 +296,4 @@
 0079. 🐛 fix: correct typo in registration form
 0654. ✨ feat: create admin dashboard
 0582. ✨ feat: add export to CSV option
+0308. 🚀 perf: reduce image load time
