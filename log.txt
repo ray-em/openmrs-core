@@ -496,3 +496,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0164. 📚 docs: document token refresh logic
 0458. ✨ feat: create admin dashboard
+0457. 🐛 fix: handle 500 error in quiz API
