@@ -298,3 +298,4 @@
 0582. ✨ feat: add export to CSV option
 0308. 🚀 perf: reduce image load time
 0775. 🐛 fix: fix null pointer exception on login
+0237. 🎨 style: standardize quote style
