@@ -302,3 +302,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0339. 📚 docs: update README with setup steps
 0164. 📚 docs: document token refresh logic
+0379. ✨ feat: support email verification
