@@ -2,3 +2,4 @@
 0685. ✅ test: test user registration edge cases
 0970. ♻️ chore: update .gitignore
 0854. ♻️ chore: rename env.example
+0595. ✨ feat: enable dark mode toggle
