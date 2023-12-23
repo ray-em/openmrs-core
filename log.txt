@@ -504,3 +504,4 @@
 0232. 🎨 style: apply consistent indentation
 0575. ✅ test: add unit test for quiz service
 0852. ✨ feat: enable dark mode toggle
+0429. ✨ feat: add user authentication
