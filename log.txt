@@ -303,3 +303,4 @@
 0339. 📚 docs: update README with setup steps
 0164. 📚 docs: document token refresh logic
 0379. ✨ feat: support email verification
+0226. 🚀 perf: lazy-load components
