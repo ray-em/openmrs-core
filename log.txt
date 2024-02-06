@@ -14,3 +14,4 @@
 0712. 🎨 style: apply consistent indentation
 0204. 🎨 style: standardize quote style
 0482. ✨ feat: add export to CSV option
+0265. 🎨 style: reformat files with black
