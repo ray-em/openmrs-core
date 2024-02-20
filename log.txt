@@ -16,3 +16,4 @@
 0482. ✨ feat: add export to CSV option
 0265. 🎨 style: reformat files with black
 0402. 🎨 style: reformat files with black
+0304. 🔧 refactor: remove redundant code blocks
