@@ -310,3 +310,4 @@
 0826. 📚 docs: clarify environment setup
 0260. ✨ feat: create admin dashboard
 0116. ✨ feat: support email verification
+0634. 🎨 style: reformat files with black
