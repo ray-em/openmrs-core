@@ -22,3 +22,4 @@
 0963. 🚀 perf: reduce image load time
 0948. 🐛 fix: fix broken CSS in mobile view
 0544. 🔧 refactor: organize models into subfolders
+0012. 🚀 perf: cache repeated calculations
