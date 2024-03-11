@@ -24,3 +24,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0012. 🚀 perf: cache repeated calculations
 0075. ✅ test: mock database connection in test suite
+0790. 📚 docs: write FAQ section
