@@ -27,3 +27,4 @@
 0790. 📚 docs: write FAQ section
 1000. ✅ test: increase coverage on auth module
 0240. 🔧 refactor: remove redundant code blocks
+0600. 🐛 fix: prevent crash on empty input
