@@ -28,3 +28,4 @@
 1000. ✅ test: increase coverage on auth module
 0240. 🔧 refactor: remove redundant code blocks
 0600. 🐛 fix: prevent crash on empty input
+0692. ✅ test: add integration test for /submit endpoint
