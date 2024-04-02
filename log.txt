@@ -316,3 +316,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0265. 🎨 style: reformat files with black
 0158. 📚 docs: clarify environment setup
+0235. 🐛 fix: fix null pointer exception on login
