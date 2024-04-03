@@ -317,3 +317,4 @@
 0265. 🎨 style: reformat files with black
 0158. 📚 docs: clarify environment setup
 0235. 🐛 fix: fix null pointer exception on login
+0165. 🎨 style: remove trailing whitespace
