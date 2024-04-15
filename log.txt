@@ -34,3 +34,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0142. ✨ feat: implement quiz timer feature
 0746. ♻️ chore: add GitHub actions badge
+0477. 🐛 fix: fix broken CSS in mobile view
