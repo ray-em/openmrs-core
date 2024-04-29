@@ -516,3 +516,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0684. 🚀 perf: reduce image load time
 0333. 🚀 perf: cache repeated calculations
+0578. ✅ test: add integration test for /submit endpoint
