@@ -43,3 +43,4 @@
 0924. ✅ test: mock database connection in test suite
 0476. 🚀 perf: reduce image load time
 0053. ✅ test: increase coverage on auth module
+0605. ✨ feat: support email verification
