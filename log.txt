@@ -520,3 +520,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0636. ✅ test: increase coverage on auth module
 0402. 🎨 style: reformat files with black
+0472. 🐛 fix: fix null pointer exception on login
