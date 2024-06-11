@@ -45,3 +45,4 @@
 0053. ✅ test: increase coverage on auth module
 0605. ✨ feat: support email verification
 0077. ♻️ chore: rename env.example
+0881. 🔧 refactor: split large controller into smaller functions
