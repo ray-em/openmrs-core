@@ -523,3 +523,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0859. ✨ feat: create admin dashboard
 0507. 🔧 refactor: clean up auth middleware
+0167. 🚀 perf: reduce image load time
