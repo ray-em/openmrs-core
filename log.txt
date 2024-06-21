@@ -327,3 +327,4 @@
 0677. 📚 docs: add API usage examples
 0092. 🚀 perf: reduce image load time
 0603. 🐛 fix: fix broken CSS in mobile view
+0746. ♻️ chore: add GitHub actions badge
