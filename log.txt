@@ -328,3 +328,4 @@
 0092. 🚀 perf: reduce image load time
 0603. 🐛 fix: fix broken CSS in mobile view
 0746. ♻️ chore: add GitHub actions badge
+0484. 🐛 fix: handle 500 error in quiz API
