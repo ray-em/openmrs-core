@@ -51,3 +51,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0194. 🎨 style: standardize quote style
 0890. 🔧 refactor: organize models into subfolders
+0062. ♻️ chore: update .gitignore
