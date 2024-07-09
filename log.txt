@@ -55,3 +55,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0219. ✅ test: increase coverage on auth module
 0170. ✅ test: increase coverage on auth module
+0285. 🐛 fix: resolve issue with date parsing
