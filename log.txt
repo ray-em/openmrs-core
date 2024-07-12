@@ -331,3 +331,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0313. 🎨 style: apply consistent indentation
 0934. ✨ feat: support email verification
+0661. ✅ test: add integration test for /submit endpoint
