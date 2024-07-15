@@ -525,3 +525,4 @@
 0507. 🔧 refactor: clean up auth middleware
 0167. 🚀 perf: reduce image load time
 0784. ♻️ chore: clean up unused files
+0551. 📚 docs: write FAQ section
