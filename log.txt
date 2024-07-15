@@ -333,3 +333,4 @@
 0934. ✨ feat: support email verification
 0661. ✅ test: add integration test for /submit endpoint
 0505. ♻️ chore: add GitHub actions badge
+0802. 🔧 refactor: remove redundant code blocks
