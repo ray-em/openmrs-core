@@ -527,3 +527,4 @@
 0784. ♻️ chore: clean up unused files
 0551. 📚 docs: write FAQ section
 0240. 🔧 refactor: remove redundant code blocks
+0623. 🎨 style: standardize quote style
