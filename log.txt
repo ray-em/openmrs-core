@@ -63,3 +63,4 @@
 0298. ♻️ chore: update .gitignore
 0343. 🚀 perf: optimize database query for quiz results
 0171. 🐛 fix: fix broken CSS in mobile view
+0291. 📚 docs: write FAQ section
