@@ -65,3 +65,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0291. 📚 docs: write FAQ section
 0203. 🚀 perf: lazy-load components
+0631. ✨ feat: create admin dashboard
