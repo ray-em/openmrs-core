@@ -68,3 +68,4 @@
 0631. ✨ feat: create admin dashboard
 0576. ♻️ chore: update .gitignore
 0771. 🚀 perf: cache repeated calculations
+0117. ✅ test: increase coverage on auth module
