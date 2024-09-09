@@ -74,3 +74,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0165. 🎨 style: remove trailing whitespace
 0328. 🐛 fix: resolve issue with date parsing
+0246. ✅ test: add integration test for /submit endpoint
