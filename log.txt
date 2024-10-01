@@ -78,3 +78,4 @@
 0730. ✅ test: test user registration edge cases
 0101. 📚 docs: clarify environment setup
 0388. 🎨 style: reformat files with black
+0664. ✅ test: add unit test for quiz service
