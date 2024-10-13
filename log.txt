@@ -80,3 +80,4 @@
 0388. 🎨 style: reformat files with black
 0664. ✅ test: add unit test for quiz service
 0174. 📚 docs: clarify environment setup
+0056. ♻️ chore: rename env.example
