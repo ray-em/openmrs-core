@@ -87,3 +87,4 @@
 0349. ✅ test: increase coverage on auth module
 0191. 🔧 refactor: refactor quiz grading logic
 0162. ♻️ chore: add GitHub actions badge
+0821. ✅ test: add integration test for /submit endpoint
