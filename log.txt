@@ -96,3 +96,4 @@
 0550. 🔧 refactor: split large controller into smaller functions
 0366. 🔧 refactor: remove redundant code blocks
 0442. 🎨 style: standardize quote style
+0676. 🐛 fix: prevent crash on empty input
