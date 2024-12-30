@@ -102,3 +102,4 @@
 0879. 🎨 style: standardize quote style
 0231. 🔧 refactor: clean up auth middleware
 0245. 🐛 fix: resolve issue with date parsing
+0947. 📚 docs: write FAQ section
