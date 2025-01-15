@@ -106,3 +106,4 @@
 0205. 📚 docs: update README with setup steps
 0467. ✅ test: add integration test for /submit endpoint
 0652. 🔧 refactor: organize models into subfolders
+0811. 🎨 style: reformat files with black
