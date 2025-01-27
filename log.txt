@@ -110,3 +110,4 @@
 0861. ♻️ chore: clean up unused files
 0979. 🎨 style: standardize quote style
 0553. 🐛 fix: correct typo in registration form
+0241. 📚 docs: add API usage examples
