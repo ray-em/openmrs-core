@@ -111,3 +111,4 @@
 0979. 🎨 style: standardize quote style
 0553. 🐛 fix: correct typo in registration form
 0241. 📚 docs: add API usage examples
+0589. 🐛 fix: fix broken CSS in mobile view
