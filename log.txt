@@ -113,3 +113,4 @@
 0241. 📚 docs: add API usage examples
 0589. 🐛 fix: fix broken CSS in mobile view
 0599. ✅ test: test user registration edge cases
+0158. 📚 docs: clarify environment setup
