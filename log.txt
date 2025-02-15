@@ -364,3 +364,4 @@
 0072. 🚀 perf: optimize database query for quiz results
 0254. 🚀 perf: reduce image load time
 0406. ✨ feat: add export to CSV option
+0783. 🐛 fix: handle 500 error in quiz API
