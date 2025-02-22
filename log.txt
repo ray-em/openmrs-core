@@ -559,3 +559,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0186. ✅ test: test user registration edge cases
 0280. ✅ test: add integration test for /submit endpoint
+0336. ✨ feat: add export to CSV option
