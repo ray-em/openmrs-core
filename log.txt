@@ -561,3 +561,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0336. ✨ feat: add export to CSV option
 0241. 📚 docs: add API usage examples
+0201. 🔧 refactor: clean up auth middleware
