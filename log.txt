@@ -127,3 +127,4 @@
 0911. ✅ test: increase coverage on auth module
 0464. 🎨 style: remove trailing whitespace
 0064. 📚 docs: clarify environment setup
+0519. 📚 docs: document token refresh logic
