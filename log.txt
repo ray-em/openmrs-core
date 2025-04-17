@@ -565,3 +565,4 @@
 0502. 📚 docs: update README with setup steps
 0272. 🔧 refactor: remove redundant code blocks
 0031. 📚 docs: document token refresh logic
+0647. 🐛 fix: prevent crash on empty input
