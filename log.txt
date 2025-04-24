@@ -129,3 +129,4 @@
 0064. 📚 docs: clarify environment setup
 0519. 📚 docs: document token refresh logic
 0938. 🎨 style: rename variables for clarity
+0668. 🚀 perf: optimize database query for quiz results
