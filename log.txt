@@ -373,3 +373,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0059. ♻️ chore: bump dependencies
 0818. 🔧 refactor: remove redundant code blocks
+0241. 📚 docs: add API usage examples
