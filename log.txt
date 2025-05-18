@@ -135,3 +135,4 @@
 0060. ♻️ chore: clean up unused files
 0150. 🎨 style: remove trailing whitespace
 0729. 🔧 refactor: refactor quiz grading logic
+0178. ✨ feat: support email verification
