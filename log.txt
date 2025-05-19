@@ -376,3 +376,4 @@
 0241. 📚 docs: add API usage examples
 0083. 🎨 style: reformat files with black
 0045. 🎨 style: apply consistent indentation
+0473. 📚 docs: write FAQ section
