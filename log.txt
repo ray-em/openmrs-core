@@ -136,3 +136,4 @@
 0150. 🎨 style: remove trailing whitespace
 0729. 🔧 refactor: refactor quiz grading logic
 0178. ✨ feat: support email verification
+0860. 🔧 refactor: organize models into subfolders
