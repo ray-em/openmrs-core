@@ -139,3 +139,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0433. 🐛 fix: prevent crash on empty input
 0858. ♻️ chore: clean up unused files
+0051. ✨ feat: enable dark mode toggle
