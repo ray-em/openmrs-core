@@ -377,3 +377,4 @@
 0083. 🎨 style: reformat files with black
 0045. 🎨 style: apply consistent indentation
 0473. 📚 docs: write FAQ section
+0988. 🐛 fix: fix broken CSS in mobile view
