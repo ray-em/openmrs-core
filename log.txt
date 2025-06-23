@@ -378,3 +378,4 @@
 0045. 🎨 style: apply consistent indentation
 0473. 📚 docs: write FAQ section
 0988. 🐛 fix: fix broken CSS in mobile view
+0792. 🎨 style: standardize quote style
