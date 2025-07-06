@@ -577,3 +577,4 @@
 0412. ✅ test: increase coverage on auth module
 0896. 🚀 perf: reduce image load time
 0539. 🔧 refactor: organize models into subfolders
+0715. ✨ feat: create admin dashboard
