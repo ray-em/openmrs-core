@@ -146,3 +146,4 @@
 0866. 📚 docs: add API usage examples
 0146. 🎨 style: apply consistent indentation
 0403. ✅ test: mock database connection in test suite
+0926. 🔧 refactor: organize models into subfolders
