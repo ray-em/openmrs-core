@@ -582,3 +582,4 @@
 0251. ♻️ chore: update .gitignore
 0197. 📚 docs: update README with setup steps
 0052. 🎨 style: standardize quote style
+0923. ✨ feat: support email verification
