@@ -383,3 +383,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0015. ✨ feat: implement quiz timer feature
 0720. ✨ feat: add export to CSV option
+0950. 🎨 style: reformat files with black
