@@ -385,3 +385,4 @@
 0720. ✨ feat: add export to CSV option
 0950. 🎨 style: reformat files with black
 0067. 🔧 refactor: remove redundant code blocks
+0909. 🔧 refactor: organize models into subfolders
