@@ -589,3 +589,4 @@
 0508. ✅ test: add unit test for quiz service
 0488. ♻️ chore: add GitHub actions badge
 0121. ✨ feat: support email verification
+0185. 📚 docs: write FAQ section
