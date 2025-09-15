@@ -163,3 +163,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0972. 🔧 refactor: refactor quiz grading logic
 0767. 🔧 refactor: remove redundant code blocks
+0572. ✨ feat: add user authentication
