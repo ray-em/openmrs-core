@@ -182,3 +182,4 @@
 0475. 🔧 refactor: clean up auth middleware
 0192. ✨ feat: enable dark mode toggle
 0635. 🎨 style: apply consistent indentation
+0777. 📚 docs: document token refresh logic
