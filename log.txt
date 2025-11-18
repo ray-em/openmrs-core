@@ -599,3 +599,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0395. 📚 docs: write FAQ section
 0133. 🐛 fix: fix null pointer exception on login
+0798. 🚀 perf: reduce image load time
