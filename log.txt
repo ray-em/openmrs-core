@@ -187,3 +187,4 @@
 0424. ✨ feat: add user authentication
 0654. ✨ feat: create admin dashboard
 0083. 🎨 style: reformat files with black
+0384. 📚 docs: clarify environment setup
