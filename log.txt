@@ -395,3 +395,4 @@
 0053. ✅ test: increase coverage on auth module
 0205. 📚 docs: update README with setup steps
 0649. 📚 docs: update README with setup steps
+0197. 📚 docs: update README with setup steps
