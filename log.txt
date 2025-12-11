@@ -191,3 +191,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0037. 🐛 fix: correct typo in registration form
 0772. 🐛 fix: fix null pointer exception on login
+0521. 🎨 style: standardize quote style
