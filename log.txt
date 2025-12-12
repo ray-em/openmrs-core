@@ -396,3 +396,4 @@
 0205. 📚 docs: update README with setup steps
 0649. 📚 docs: update README with setup steps
 0197. 📚 docs: update README with setup steps
+0110. 🐛 fix: prevent crash on empty input
