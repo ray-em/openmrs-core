@@ -398,3 +398,4 @@
 0197. 📚 docs: update README with setup steps
 0110. 🐛 fix: prevent crash on empty input
 0096. 🐛 fix: prevent crash on empty input
+0515. 🚀 perf: optimize database query for quiz results
