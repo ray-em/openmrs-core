@@ -195,3 +195,4 @@
 0444. ✅ test: add unit test for quiz service
 0457. 🐛 fix: handle 500 error in quiz API
 0552. 🐛 fix: fix null pointer exception on login
+0397. 🐛 fix: handle 500 error in quiz API
