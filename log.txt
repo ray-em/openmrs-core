@@ -402,3 +402,4 @@
 0749. ✨ feat: support email verification
 0947. 📚 docs: write FAQ section
 0686. 🎨 style: standardize quote style
+0881. 🔧 refactor: split large controller into smaller functions
