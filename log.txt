@@ -608,3 +608,4 @@
 0806. 📚 docs: improve code comments in utils
 0261. 🔧 refactor: refactor quiz grading logic
 0533. ♻️ chore: add GitHub actions badge
+0102. ✨ feat: support email verification
