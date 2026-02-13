@@ -609,3 +609,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0533. ♻️ chore: add GitHub actions badge
 0102. ✨ feat: support email verification
+0979. 🎨 style: standardize quote style
